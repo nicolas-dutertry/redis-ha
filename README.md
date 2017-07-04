@@ -2,7 +2,7 @@
 
 Redis image for high availability with disk persistent storage for data and configuration.
 
-This image was created to be used in [redis-ha-stack](https://github.com/nicolas-dutertry/redis-ha-stack) in conjunction with [redis-sentinel](https://github.com/nicolas-dutertry/redis-ha-sentinel) image.
+This image was created to be used in [redis-ha-stack](https://github.com/nicolas-dutertry/redis-ha-stack) in conjunction with [redis-sentinel](https://github.com/nicolas-dutertry/redis-sentinel) image.
 
 ## Environment variables
 
